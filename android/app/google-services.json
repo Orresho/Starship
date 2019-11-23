@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14038684119",
+    "firebase_url": "https://starship-ab533.firebaseio.com",
+    "project_id": "starship-ab533",
+    "storage_bucket": "starship-ab533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14038684119:android:b3cdbe9bd48a21b39a3b92",
+        "android_client_info": {
+          "package_name": "com.thefuncompany.startship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14038684119-4adicugdhpjso8e6h3h14tlrio5fpr8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPbXT8-9FemhCKiANZqpDvId5LyaK7FOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14038684119-4adicugdhpjso8e6h3h14tlrio5fpr8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14038684119-iccqnooeh5kp12678a7s2oa36c9ofcj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thefuncompany.startship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

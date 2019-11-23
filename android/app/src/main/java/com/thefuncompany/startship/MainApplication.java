@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.thefuncompany.startship;
 
 import androidx.multidex.MultiDexApplication;
 
